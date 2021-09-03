@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Justin
 - 👀 I’m interested in mobile technology, language learning, coffee.
-- 🌱 I’m currently learning Asp.net Blazor
-- 💞️ I’m looking to collaborate on (not sure yet)
+- 🌱 I’m currently learning SwiftUI
+- 💞️ I’m looking to collaborate on Language Learning Software
 - 📫 How to reach me justin@liteboxnz.com
 
 <!---
